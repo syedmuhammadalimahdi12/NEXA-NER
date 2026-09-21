@@ -223,9 +223,9 @@ st.markdown("""
 # MODEL FILES
 # ============================================================
 
-MODEL_PATH = "D:/GRU_NER_Streamlit/models/gru_ner_model.keras"
-WORD2ID_PATH = "D:/GRU_NER_Streamlit/models/word2id.pkl"
-ID2LABEL_PATH = "D:/GRU_NER_Streamlit/models/id2label.pkl"
+MODEL_PATH = "models/gru_ner_model.keras"
+WORD2ID_PATH = "models/word2id.pkl"
+ID2LABEL_PATH = "models/id2label.pkl"
 
 MAX_LEN = 128
 PAD_TOKEN = "<PAD>"
