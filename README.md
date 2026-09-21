@@ -81,7 +81,7 @@ It provides:
 
 Example:
 
-```text
+text
 Bill Gates founded Microsoft in the United States.
 
 Possible output:
